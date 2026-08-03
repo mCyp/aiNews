@@ -58,6 +58,7 @@ AI 资讯自动归档仓库。每天 / 每周自动从公开数据源拉取、�
 
 每周 Coding AI 周榜 Top 10。来源：[star-history.com](https://www.star-history.com) Coding AI Leaderboard + GitHub API。
 
+- [2026-08-03 - W32 (2026-08-03 ~ 2026-08-09)](docs/weekly-coding-ai-2026-08-03.md)
 - [2026-07-27 - W31 (2026-07-27 ~ 2026-08-02)](docs/weekly-coding-ai-2026-07-27.md)
 - [2026-07-20 - W30 (2026-07-20 ~ 2026-07-26)](docs/weekly-coding-ai-2026-07-20.md)
 - [2026-07-13 - W29 (2026-07-13 ~ 2026-07-19)](docs/weekly-coding-ai-2026-07-13.md)
